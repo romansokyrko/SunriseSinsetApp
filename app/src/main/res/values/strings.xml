@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SunriseSunsetApp</string>
+    <string name="sunrise_and_sunset_times_label">Sunrise and sunset times in</string>
+    <string name="day_label">Today</string>
+    <string name="sunrise_content_description">sunrise</string>
+    <string name="sunrise_time_label">Sunrise Time:</string>
+    <string name="first_light_label">First light at:</string>
+    <string name="sunset_label">sunsetLabel</string>
+    <string name="sunset_time_label">Sunset Time:</string>
+    <string name="last_light_label">Last light at:</string>
+    <string name="day_length_label">Day length:</string>
+    <string name="autocomplete_hint">Enter a location</string>
+</resources>
